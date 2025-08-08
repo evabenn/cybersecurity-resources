@@ -1,6 +1,6 @@
-# Why I Created This Page — and How To Use It
+# Why I Created This Page and How To Use It
 
-If you’re trying to get into cybersecurity but feel overwhelmed and don’t know where to start, this page is for you.
+If you’re trying to get into cybersecurity but feel overwhelmed and don’t know where to start, this page is for you. I created this page following a 7-day zero=to-hired series I ran on Youtube, TikTok and Instagram (see links below).
 
 You’ve probably heard a lot of buzzwords like Red Team, SOC Analyst, GRC, Cloud Security—and you’re wondering:
 - **What do these roles actually do?**
@@ -11,7 +11,7 @@ I created this resource because cybersecurity isn’t just one job—it’s a wh
 
 ### What’s Inside
 
-- **Career Pathways Table:** A clear breakdown of the most common cybersecurity careers—what each role does, who it’s great for, skills you’ll need, and the tools you should know.
+- **[Career Pathways Table](https://github.com/evabenn/cybersecurity-resources/blob/main/cybersecurity-career-paths.md)**: A clear breakdown of the most common cybersecurity careers—what each role does, who it’s great for, skills you’ll need, and the tools you should know.
 - **Free Hands-On Practice:** Direct links to free, practical labs, environments, and games (like [KC7](https://kc7.com/)) so you can build real-world skills, not just theory.
 - **Community & Nonprofit Groups:** Find your people. Get mentorship, support, and opportunities from trusted industry communities and nonprofits.
 
@@ -38,6 +38,13 @@ And remember—cybersecurity is for everyone. You belong here.
 
 ---
 
-*For a walkthrough on how to use this tool and more career-building content, check out my video linked below, or leave your top two role picks in the comments—for personalized advice and resources!*
+## Connect with me:
 
-Let’s get to work—together.
+**Eva Benn**: [LinkedIn](https://www.linkedin.com/in/evabenn/)
+
+**YouTube**: [@cybersecurity_madesimple](https://www.youtube.com/@cybersecurity_madesimple)  
+
+**Instagram**: [@cybersecurity_madesimple](https://www.instagram.com/cybersecurity_madesimple) 
+
+**TikTok**: [@cybersecurity_madesimple](https://www.tiktok.com/@cybersecurity_madesimple)
+
