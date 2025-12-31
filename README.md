@@ -42,9 +42,9 @@ And remember—cybersecurity is for everyone. You belong here.
 
 **Eva Benn**: [LinkedIn](https://www.linkedin.com/in/evabenn/)
 
-**YouTube**: [@cybersecurity_madesimple](https://www.youtube.com/@cybersecurity_madesimple)  
+**YouTube**: [@evabennofficial](https://www.youtube.com/@evabennofficial)  
 
-**Instagram**: [@cybersecurity_madesimple](https://www.instagram.com/cybersecurity_madesimple) 
+**Instagram**: [@evabennofficial](https://www.instagram.com/evabennofficial) 
 
-**TikTok**: [@cybersecurity_madesimple](https://www.tiktok.com/@cybersecurity_madesimple)
+**TikTok**: [@evabennofficial](https://www.tiktok.com/@evabennofficial)
 
