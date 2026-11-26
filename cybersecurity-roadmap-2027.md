@@ -18,13 +18,14 @@ The basics are how computers and operating systems work, how to get around a Lin
 
 | Resource | How to Use (Free) | Why It Matters |
 |----------|-------------------|----------------|
+| [Practical Help Desk (TCM Security)](https://tcm-sec.com/academy/practical-help-desk/) | Free course by Andrew Bellini. 16.5 hours with 7+ hours of hands-on labs. Free TCM Academy account, no credit card | How computers actually work, troubleshooting, operating systems, and networking. Everything you need to work the help desk, which is how a lot of people break into IT |
+| [Practical Security Fundamentals (TCM Security)](https://tcm-sec.com/academy/practical-security-fundamentals/) | Free course by Andrew Bellini. 8.5 hours with hands-on labs using real security tools. Free TCM Academy account, no credit card | Security concepts, common threats, vulnerabilities, and mitigations. A good first step before you specialize |
 | [Cisco Networking Academy: Introduction to Cybersecurity](https://www.netacad.com/courses/introduction-to-cybersecurity) | Free self-paced course, about 6 hours, free account | The big picture: common threats, how attacks work, how companies defend |
 | [Professor Messer: CompTIA A+ Core 1](https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/220-1201-training-course/) and [Core 2](https://www.professormesser.com/free-a-plus-training/220-1202/220-1202-video/220-1202-training-course/) | Free videos, no account. Core 1 is 63 videos, about 10 hours | Hardware, operating systems, troubleshooting. This is the IT base security sits on |
 | [Linux Journey](https://labex.io/linuxjourney) | Free, no sign-up. Start with the Grasshopper lessons: command line, permissions, processes | Most security tools and servers run on Linux |
 | [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/) | A game you play in the terminal, built for absolute beginners | You practice Linux commands by solving levels instead of reading about them |
 | [Professor Messer: Security+ (SY0-701)](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/) | Free videos, no account. 121 videos, about 15 hours | The core security vocabulary you'll hear in every interview |
 | [CS50's Introduction to Cybersecurity (Harvard)](https://cs50.harvard.edu/cybersecurity) | Five weeks of lectures and assignments, free through Harvard's OpenCourseWare | Built for technical and non-technical people. Covers accounts, data, systems, software, privacy |
-| [TryHackMe: free beginner roadmap](https://tryhackme.com/resources/blog/free_path) | TryHackMe's own list of free rooms in order. Free accounts get one hour a day on the in-browser hacking machine | Guided, hands-on practice from day one |
 
 **Short on time?** Do Introduction to Cybersecurity, then Linux Journey, then Bandit.
 
@@ -78,6 +79,16 @@ I don't want you trying to learn everything. Cybersecurity is a huge field and y
 | [Microsoft: AI Red Teaming 101](https://learn.microsoft.com/en-us/security/ai-red-team/training) | 10 free episodes. The matching labs need your own paid AI API key, so watch first | How a real AI red team works, from fundamentals to automation |
 | [GitHub Secure Code Game](https://securitylab.github.com/secure-code-game/) | Free and open source. Runs in your browser through GitHub Codespaces. Season 3 covers LLM security, Season 4 covers AI agents | You attack a vulnerable AI assistant, then learn how to fix it |
 | [MITRE ATLAS](https://atlas.mitre.org/) | Free to browse | A knowledge base of real attacks on AI systems and how to defend against them |
+
+**New to AI? Learn how it works.** You hack AI better when you know what is under the hood.
+
+| Resource | How to Use (Free) | Why It Matters |
+|----------|-------------------|----------------|
+| [AI 100: Fundamentals (TCM Security)](https://tcm-sec.com/academy/ai-100-fundamentals/) | Free course by Andrew Bellini. 4 hours with hands-on labs. Free TCM Academy account, no credit card | How AI works under the hood, from the math behind neural networks up to how LLMs function. You train your own small neural network and run a local LLM |
+| [Ethically Hacking LLMs, Part 1](https://tcm-sec.com/ethically-hacking-llms-neural-networks/) and [Part 2](https://tcm-sec.com/ethically-hack-ai-prompt-injection/) | Andrew Bellini's free blog series. Two reads | Part 1 covers how neural networks and LLMs work. Part 2 gets right into prompt injection and jailbreaking |
+| [3Blue1Brown: Neural Networks](https://www.3blue1brown.com/topics/neural-networks) | Free video series | The clearest visual explanation of how neural networks and transformers work |
+| [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | Free self-paced course from Google | A hands-on intro to machine learning, the field LLMs come from |
+| [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) | Free, no ads | How large language models work and how people build with them |
 
 ### Want a different path?
 
