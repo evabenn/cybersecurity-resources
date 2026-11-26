@@ -12,7 +12,7 @@ I created this resource because cybersecurity isn’t just one job—it’s a wh
 ### What’s Inside
 
 - **[My 2027 Roadmap (Start Here)](https://github.com/evabenn/cybersecurity-resources/blob/main/cybersecurity-roadmap-2027.md)**: The four-step roadmap I'd follow to get into cybersecurity from scratch, with free resources for every step.
-- **[The Big List: Free Resources by Domain](https://github.com/evabenn/cybersecurity-resources/blob/main/free-cybersecurity-resources.md)**: 350+ free resources grouped by domain: fundamentals, blue team, red team, AI security, IoT and hardware hacking, cloud, GRC, and more.
+- **[The Big List: Free Resources by Domain](https://github.com/evabenn/cybersecurity-resources/blob/main/free-resources-by-domain.md)**: 350+ free resources grouped by domain: fundamentals, blue team, red team, AI security, IoT and hardware hacking, cloud, GRC, and more.
 - **[Career Pathways Table](https://github.com/evabenn/cybersecurity-resources/blob/main/cybersecurity-career-paths.md)**: A clear breakdown of the most common cybersecurity careers—what each role does, who it’s great for, skills you’ll need, and the tools you should know.
 - **Free Hands-On Practice:** Direct links to free, practical labs, environments, and games (like [KC7](https://kc7.com/)) so you can build real-world skills, not just theory.
 - **Community & Nonprofit Groups:** Find your people. Get mentorship, support, and opportunities from trusted industry communities and nonprofits.
