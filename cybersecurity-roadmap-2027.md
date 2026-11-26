@@ -1,18 +1,14 @@
 # My 2027 Cybersecurity Roadmap (Free Career Guide)
 
-> You commented **START**. Here's the exact roadmap I'd follow if I wanted to get into cybersecurity from scratch in 2027. And yes, everything on this page is free.
+Hi, I'm Eva. I'm your new cybersecurity bestie. I built this because I know how overwhelming it can feel when you are just getting started.
 
-Hi, I'm Eva. I've been in cybersecurity for over 13 years. I worked my way from zero to leadership security roles and I've been a security hiring manager in big tech. This is the order I'd do things in if I had to start again today.
-
-There are four steps. Do them in order. You don't need every link on this page. Pick one resource per step, finish it, then move on.
+There are 4 steps. Do them in order. You don't need every link on this page. Pick one resource per step, finish it, then move on.
 
 **How "free" works here:**
 - Every resource has a free version that is enough to learn from
 - Most ask you to create a free account
 - Some sell paid upgrades. You don't need them to follow this roadmap
 - Certification exams cost money. The study material below does not
-
-*Links checked November 2026.*
 
 ---
 
