@@ -10,8 +10,6 @@ If you are brand new, don't start here. Start with my [2027 Roadmap](https://git
 - Some sell paid upgrades, labs, or exams. You don't need them to learn
 - Self-hosted labs are free to run on your own computer. A few need an AI API key, which can cost money
 
-Big thanks to [Andrew Bellini](https://www.digitalandrew.io), whose free training is all over the AI and IoT sections, and to the [Arcanum AI Security Resource Hub](https://arcanum-sec.github.io/ai-sec-resources/), where many of the AI labs on this page come from.
-
 ## Jump to a domain
 
 - [Fundamentals](#fundamentals)
