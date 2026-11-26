@@ -92,7 +92,7 @@ I don't want you trying to learn everything. Cybersecurity is a huge field and y
 
 ### Want a different path?
 
-Red Team, Cloud Security, GRC, Digital Forensics, Threat Intelligence. They are all in my [Career Paths Table](https://github.com/evabenn/cybersecurity-resources/blob/main/cybersecurity-career-paths.md), with who each role fits and where to practice for free. Want more to practice on? [The Big List](https://github.com/evabenn/cybersecurity-resources/blob/main/free-cybersecurity-resources.md) has 350+ free resources grouped by domain.
+Red Team, Cloud Security, GRC, Digital Forensics, Threat Intelligence. They are all in my [Career Paths Table](https://github.com/evabenn/cybersecurity-resources/blob/main/cybersecurity-career-paths.md), with who each role fits and where to practice for free. Want more to practice on? [The Big List](https://github.com/evabenn/cybersecurity-resources/blob/main/free-resources-by-domain.md) has 350+ free resources grouped by domain.
 
 ---
 
@@ -145,7 +145,7 @@ Everyone feels behind. The field changes fast. Start before you feel ready, beca
 
 - **[Security Mondays](https://www.youtube.com/@evabennofficial):** My weekly show with security leaders. New episode every Monday.
 - **[SANS Internet Storm Center Stormcast](https://isc.sans.edu/podcast.html):** About five minutes of security news every weekday.
-- **[The Big List: Free Resources by Domain](https://github.com/evabenn/cybersecurity-resources/blob/main/free-cybersecurity-resources.md):** 350+ free resources for every domain, including AI security, IoT and hardware hacking, blue team, and cloud.
+- **[The Big List: Free Resources by Domain](https://github.com/evabenn/cybersecurity-resources/blob/main/free-resources-by-domain.md):** 350+ free resources for every domain, including AI security, IoT and hardware hacking, blue team, and cloud.
 - **[Career Paths Table](https://github.com/evabenn/cybersecurity-resources/blob/main/cybersecurity-career-paths.md):** What each role does and who it fits.
 - **[10 + Bonus 20 Free Resources](https://github.com/evabenn/cybersecurity-resources/blob/main/bonus-20.md):** More free labs and tools when you want them.
 
