@@ -19,7 +19,7 @@ Every resource is:
 | 1 | [RootMe](https://www.root-me.org) | Register free, access 400+ labs in web, network, crypto, forensics | Realistic challenges, great mix of beginner + advanced |
 | 2 | [OverTheWire](https://overthewire.org/wargames/bandit/) | Play “Bandit” CTFs online with SSH, completely free | Best Linux & command line starter lab |
 | 3 | [HackThisSite](https://www.hackthissite.org/) | Free missions (basic to advanced web hacks) | Classic platform, teaches problem-solving through hacking |
-| 4 | [picoCTF](https://picoctf.org) | Join their year-round free CTFs | Beginner-focused CTF by Carnegie Mellon |
+| 4 | [CyLab Security Academy (formerly picoCTF)](https://cylabacademy.org/) | Free practice challenges and learning paths, year-round | Beginner-focused CTF by Carnegie Mellon |
 | 5 | [PortSwigger Web Security Academy](https://portswigger.net/web-security) | Free interactive labs on OWASP Top 10 | Deep dive into web hacking vulnerabilities |
 | 6 | [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) | Download/run locally or online, attack it | Safest way to practice web hacking skills |
 | 7 | [Hacker101](https://www.hacker101.com/) | Free lessons + CTFs from HackerOne | Great for aspiring bug bounty hunters |
@@ -40,7 +40,7 @@ Every resource is:
 | 15 | [CyberSecLabs Free Labs](https://cyberseclabs.co.uk/free-labs/) | Free machines to hack | Focused on realistic Windows & Linux targets |
 | 16 | [Exploit Exercises](https://exploit-exercises.lains.space/) | Free VM challenges (Protostar, Nebula) | Learn buffer overflows & memory exploits |
 | 17 | [Practical Pentest Labs (Free)](https://practicalpentestlabs.com/free/) | Free pentest VMs | Realistic corporate-like lab machines |
-| 18 | [LetsDefend](https://letsdefend.io) | Free SOC challenges (alerts, logs) | Learn blue team analyst skills |
+| 18 | [KC7](https://kc7cyber.com/) | Free blue team detective game, investigate cases in real-looking logs | Learn blue team analyst skills |
 | 19 | [RangeForce Community Edition](https://go.rangeforce.com/community-edition) | Free cyber range modules | Great hands-on defensive training |
 | 20 | [Blue Team Labs Online](https://blueteamlabs.online/) | Free SOC/IR challenges | Build real-world detection skills |
 | 21 | [CyberDefenders.org](https://cyberdefenders.org) | Free DFIR labs & challenges | Focus on forensics + incident response |
@@ -67,8 +67,8 @@ Every resource is:
 
 ## Connect with Eva via Social Media:  
 - [LinkedIn](https://www.linkedin.com/in/evabenn/)  
-- [TikTok](https://www.tiktok.com/@cybersecurity_madesimple)  
-- [Instagram](https://www.instagram.com/cybersecurity_madesimple/)  
-- [YouTube](https://www.youtube.com/@cybersecurity_madesimple)  
+- [TikTok](https://www.tiktok.com/@evabennofficial)  
+- [Instagram](https://www.instagram.com/evabennofficial)  
+- [YouTube](https://www.youtube.com/@evabennofficial)  
 
 ---
